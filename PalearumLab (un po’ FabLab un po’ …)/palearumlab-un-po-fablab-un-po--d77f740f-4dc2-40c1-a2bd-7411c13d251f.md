@@ -7,6 +7,15 @@ Un luogo dove ci si scambiano idee, si fanno esperienze, si condivide conoscenza
 Dove ognuno ha la possibilità di sviluppare le proprie attitudini e la propria creatività nel campo della scienza, dell’arte, dell’informatica, della tecnologia con un occhio alla cultura e alla filosofia, per non farsi mancare niente e provare a creare una propria visione del mondo.
 Dove si può anche andare a “fare un giro” e vedere chi c’ė quando non si ha di meglio da fare.
 
+### Cos'è un FabLab
+
+Un esempio: il [FabLab di lab121](https://www.lab121.org/fablab-alessandria/) ad Alessandria
+
+Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente sincronizzate. Il FabLab è uno spazio aperto al pubblico, un luogo di socializzazione e incontro. È un luogo di produzione attraverso l’utilizzo di un set di macchine standard che consente la progettazione, prototipazione e realizzazione, attraverso la stampa 3D, di oggetti e manufatti. È un luogo di ricerca, di svago, di relazione. Un po’ officina, un po’ laboratorio di ricerca e sviluppo, un po’ centro sociale, il FabLab è un network di realtà presenti in decine di paesi al mondo, da Parigi a New York passando per Kabul fino a Pavia e Parma. Il FabLab è un luogo sempre uguale a se stesso, le macchine devono essere quelle previste, ma inevitabilmente diverso a seconda del territorio e della comunità che lo ospita. Nato presso l’MIT di Boston, grazie al lavoro seminale di Neil Gershenfeld, fonda la sua forza sulla filosofia di azione locale attraverso un network internazionale di scambio e conoscenza. Vuole favorire la creatività e il DIY (do it yourself) attraverso l’accessibilità per tutti alle macchine di fabbricazione digitale e promuove un nuovo modello di impresa diffusa, legata al territorio fortemente sociale (non a caso si parla di Open Manufacturing e di Quarta Rivoluzione industriale).
+
+Il manifesto del FabLab: la [Fab charter MIT](https://fab.cba.mit.edu/about/charter/)
+
+
 ## Perché
 
 ### Una nuova alfabetizzazione
@@ -19,7 +28,9 @@ Non è necessario diventare esperti, ma occorre avere almeno qualche nozione di 
 
 ### Riscoprire le origini
 
-L’evoluzione della società negli ultimi cento anni, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare ci ha portato a perdere alcune conoscenze di base, in particolare alcune capacità manuali, che erano largamente diffuse tra i nostri nonni e bisnonni e che oggi sono *patrimonio* di pochi.
+In questo punto sta la particolarità del progetto **Palearum Lab**: fondere la tradizione e il sapere tradizionale con la modernità, perchè possano continuare ad esistere.
+
+L’evoluzione della società, la crescente specializzazione delle professioni e delle conoscenze, il cambiamento dei modelli di vita e dell’organizzazione famigliare ci ha portato a perdere alcune conoscenze di base, in particolare alcune capacità manuali, che erano largamente diffuse tra i nostri nonni e bisnonni e che oggi sono *patrimonio* di pochi.
 Capacità, conoscenze pratiche che sono state per centinaia di anni patrimonio comune sono state praticamente azzerate nell’arco di pochi decenni. Rammendare, lavorare a maglia, fare l’impasto per il pane, riparare un utensile rotto, accendere il fuoco nel camino o nella stufa erano attività necessarie per la sopravvivenza, poi divenute solamente utili e infine semplicemente non più necessarie nella vita quotidiana della maggior parte di noi, e quindi destinate a perdersi nella memoria.
 
 ## Come
