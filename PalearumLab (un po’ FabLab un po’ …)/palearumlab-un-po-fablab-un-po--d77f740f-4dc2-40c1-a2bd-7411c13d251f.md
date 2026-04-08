@@ -15,7 +15,6 @@ Il FabLab è tante cose, diverse tra di loro, non necessariamente perfettamente 
 
 Il manifesto del FabLab: la [Fab charter MIT](https://fab.cba.mit.edu/about/charter/)
 
-
 ## Perché
 
 ### Una nuova alfabetizzazione
@@ -42,7 +41,7 @@ L’esperienza è alla base della conoscenza.
 ### Valorizzare il passato e le esperienze di base
 
 “Siamo nani sulle spalle di giganti”. Questa idea suggerita anticamente da Prisciano nel V secolo secondo U. Eco, ripresa da Bertrando di Chartres nel XII, e da Isaac Newton, non fa parte del nostro sentire.
-Non ci ricordiamo (a livello collettivo) chi	eravamo e da dove veniamo, perdiamo pezzi di conoscenza e di coscienza collettiva.
+Non ci ricordiamo (a livello collettivo) chi    eravamo e da dove veniamo, perdiamo pezzi di conoscenza e di coscienza collettiva.
 
 Il *corpus* di conoscenze accumulate dall’umanità non è più contemplabile dalla mente di un singolo individuo.
 Il livello di specializzazione estrema nel percorso di studi e professionale rischia di far perdere di vista le basi della conoscenza.
@@ -88,4 +87,3 @@ Decentralizzare il controllo delle infrastrutture e dei processi.
 [FabLab Torino](https://fablabtorino.org/)
 [Lab121 Alessandria](https://www.lab121.org)
 [Raspberry Foundation position paper](https://static.raspberrypi.org/files/about/Why-kids-still-need-to-learn-to-code-in-the-age-of-AI-2025-Raspberry-Pi-Foundation-position-paper.pdf)
-
